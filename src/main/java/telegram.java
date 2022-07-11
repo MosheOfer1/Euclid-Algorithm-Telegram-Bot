@@ -114,13 +114,13 @@ public class telegram extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
         // TODO
-        return "Mosheofer1Bot";
+        return <here you enter user name>;
     }
 
     @Override
     public String getBotToken() {
         // TODO
-        return "5539759085:AAEi9Ku6UqT0YCMYymH54ynqdSt5qtOx2DU";
+        return <here you enter your BotToken from Telegram>;
     }
 
     public static boolean isNumeric(String string) {
